@@ -31,9 +31,9 @@ export default function Testimonial() {
               <p>
                 “Love nails has never given me anything but exceptional service!
                 Their techniques are precise and their technicians are truly my
-                favorite nail techs i’ve ever met. Katie is so sweet and always
+                favorite nail techs i've ever met. Katie is so sweet and always
                 makes me feel welcome & does an amazing job every time. Lele did
-                my roommates nails perfectly. this is now the only place i’ll
+                my roommates nails perfectly. this is now the only place i'll
                 get my nails done in Lawrence KS.”
               </p>
               <p className={styles.author}>- Katherine M. ⭐⭐⭐⭐⭐</p>
